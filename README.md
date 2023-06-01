@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with finding entry-level roles
 - 💬 Ask me about feature engineering, hyperparameter tuning, MLOps, Big Data Tools, Non-relational databases
 - 📫 How to reach me: [...](https://www.linkedin.com/in/uday-mukhija/)
-- ⚡ Fun fact: I like reading non-fiction, current affairs and playing football, cricket!
+- ⚡ Fun fact: Hit me up if you want to discuss a good research paper, a new book or soccer!
 
 <!--
 **um2158/um2158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
