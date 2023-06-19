@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects as well as spinning up solutions for interesting problems!
 - 🤔 I’m looking for help with finding entry-level roles
 - 💬 Ask me about feature engineering, hyperparameter tuning, MLOps, Big Data Tools, Non-relational databases
-- 📫 How to reach me: [...](https://www.linkedin.com/in/uday-mukhija/)
+- 📫 How to reach me: (https://www.linkedin.com/in/uday-mukhija/)
 - ⚡ Fun fact: Hit me up if you want to discuss a good research paper, a new book or soccer!
 
 <!--
